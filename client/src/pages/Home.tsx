@@ -82,7 +82,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="btn-neon inline-flex items-center gap-2 group"
             >
-              👉 View the Original Elon Musk Tweet
+              View the Original Elon Musk Tweet
               <ExternalLink className="w-4 h-4 group-hover:animate-bounce" />
             </a>
           </div>
@@ -165,28 +165,28 @@ export default function Home() {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             {/* Card 1 */}
             <div className="group p-6 border-2 border-yellow-400/30 bg-black/50 hover:border-yellow-400 hover:bg-yellow-400/5 transition-all duration-300 rounded-lg cursor-pointer hover:scale-105 hover:shadow-lg hover:shadow-yellow-400/20">
-              <div className="text-4xl mb-4">🔥</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-yellow-400 mb-3">Globally Recognizable</h3>
               <p className="text-white/70 text-sm">Internet slang that transcends borders and communities</p>
             </div>
 
             {/* Card 2 */}
             <div className="group p-6 border-2 border-orange-400/30 bg-black/50 hover:border-orange-400 hover:bg-orange-400/5 transition-all duration-300 rounded-lg cursor-pointer hover:scale-105 hover:shadow-lg hover:shadow-orange-400/20">
-              <div className="text-4xl mb-4">🔁</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-orange-400 mb-3">Viral Loop</h3>
               <p className="text-white/70 text-sm">Tied to every market pump, amplifying the narrative</p>
             </div>
 
             {/* Card 3 */}
             <div className="group p-6 border-2 border-yellow-400/30 bg-black/50 hover:border-yellow-400 hover:bg-yellow-400/5 transition-all duration-300 rounded-lg cursor-pointer hover:scale-105 hover:shadow-lg hover:shadow-yellow-400/20">
-              <div className="text-4xl mb-4">📈</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-yellow-400 mb-3">2026 Sentiment</h3>
               <p className="text-white/70 text-sm">Proxy for the year's bullish energy and optimism</p>
             </div>
 
             {/* Card 4 */}
             <div className="group p-6 border-2 border-orange-400/30 bg-black/50 hover:border-orange-400 hover:bg-orange-400/5 transition-all duration-300 rounded-lg cursor-pointer hover:scale-105 hover:shadow-lg hover:shadow-orange-400/20">
-              <div className="text-4xl mb-4">🐂</div>
+              <div className="text-4xl mb-4"></div>
               <h3 className="text-xl font-bold text-orange-400 mb-3">BSC Bull Cycle</h3>
               <p className="text-white/70 text-sm">Meme mascot for the Binance Smart Chain bull run</p>
             </div>
@@ -294,7 +294,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="group p-8 border-2 border-yellow-400/30 bg-black/50 hover:border-yellow-400 hover:bg-yellow-400/5 transition-all duration-300 rounded-lg text-center hover:scale-105 hover:shadow-lg hover:shadow-yellow-400/20"
             >
-              <div className="text-5xl mb-4">💬</div>
+              <div className="text-5xl mb-4"></div>
               <h3 className="text-2xl font-bold text-yellow-400 mb-2">Telegram</h3>
               <p className="text-white/70 mb-4">Join our community chat</p>
               <div className="inline-flex items-center gap-2 text-yellow-400 font-bold group-hover:gap-3 transition-all">
@@ -310,7 +310,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="group p-8 border-2 border-orange-400/30 bg-black/50 hover:border-orange-400 hover:bg-orange-400/5 transition-all duration-300 rounded-lg text-center hover:scale-105 hover:shadow-lg hover:shadow-orange-400/20"
             >
-              <div className="text-5xl mb-4">𝕏</div>
+              <div className="text-5xl mb-4"></div>
               <h3 className="text-2xl font-bold text-orange-400 mb-2">X (Twitter)</h3>
               <p className="text-white/70 mb-4">Follow for updates</p>
               <div className="inline-flex items-center gap-2 text-orange-400 font-bold group-hover:gap-3 transition-all">
