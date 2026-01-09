@@ -305,7 +305,7 @@ export default function Home() {
 
             {/* Twitter/X */}
             <a
-              href="https://x.com/Bangermeme"
+              href="https://x.com/Bangeronbsc"
               target="_blank"
               rel="noopener noreferrer"
               className="group p-8 border-2 border-orange-400/30 bg-black/50 hover:border-orange-400 hover:bg-orange-400/5 transition-all duration-300 rounded-lg text-center hover:scale-105 hover:shadow-lg hover:shadow-orange-400/20"
@@ -314,7 +314,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold text-orange-400 mb-2">X (Twitter)</h3>
               <p className="text-white/70 mb-4">Follow for updates</p>
               <div className="inline-flex items-center gap-2 text-orange-400 font-bold group-hover:gap-3 transition-all">
-                @Bangermeme
+                @Bangeronbsc
                 <ExternalLink className="w-4 h-4" />
               </div>
             </a>
